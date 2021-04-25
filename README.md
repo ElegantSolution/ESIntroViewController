@@ -4,4 +4,10 @@
 
 ## 使用
 
+```swift
+
+let intro = ESIntroViewController([page1,page2,page3])
+
+```
+
 
