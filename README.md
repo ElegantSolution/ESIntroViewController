@@ -9,5 +9,6 @@
 let intro = ESIntroViewController([page1,page2,page3])
 
 ```
+## By
 
-
+Yue Zhao @ElegantSolution, eesoto@foxmail.com
